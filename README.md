@@ -6,7 +6,7 @@
 
 2.The goal of this project is to transform raw data into meaningful visualizations that highlight performance across different dimensions such as region, category, and customer segments.
 
-Key Highlights
+## Key Highlights
 1.Sales Analysis Dashboard
 2.Tracks overall performance using key metrics like Sales, Profit, Quantity, and Average Delivery Time
 3.Provides breakdowns by:
@@ -17,14 +17,14 @@ Key Highlights
 8.Monthly trend analysis to compare year-over-year performance
 
 
->>Sales Forecast (15 Days)
+## Sales Forecast (15 Days)
 1.Time series analysis of historical order data
 2.Short-term 15-day forecast for sales prediction
 3.State-wise sales distribution to identify top-performing regions
 4.Helps in planning inventory and improving demand forecasting
 
 
->>Insights Gained
+## Insights Gained
 1.Certain regions consistently outperform others in terms of revenue
 2.A few product categories contribute significantly to overall sales
 3.Shipping mode and payment preferences impact customer behavior
