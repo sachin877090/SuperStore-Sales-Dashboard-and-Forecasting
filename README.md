@@ -8,9 +8,9 @@
 
 ## Key Highlights
 ##### Sales Analysis Dashboard
-2.Tracks overall performance using key metrics like Sales, Profit, Quantity, and Average Delivery Time
-3.Provides breakdowns by:
-4.Region (Central, East, South, West)
+##### Tracks overall performance using key metrics like Sales, Profit, Quantity, and Average Delivery Time
+##### Provides breakdowns by:
+##### Region (Central, East, South, West)
 5.Customer Segments
 6.Product Categories and Sub-categories
 7.Payment Modes and Shipping Methods
