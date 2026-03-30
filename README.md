@@ -31,7 +31,7 @@
 4.Forecasting reveals short-term fluctuations and growth patterns
 
 
->>Tools & Technologies Used
+## Tools & Technologies Used
 1.Power BI for dashboard design and visualization
 2.Excel for data cleaning and preprocessing
 3.Basic time series forecasting techniques
