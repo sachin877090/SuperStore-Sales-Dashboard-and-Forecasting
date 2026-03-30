@@ -7,8 +7,8 @@
 2.The goal of this project is to transform raw data into meaningful visualizations that highlight performance across different dimensions such as region, category, and customer segments.
 
 ## Key Highlights
-### 1.Sales Analysis Dashboard
-### 2.Tracks overall performance using key metrics like Sales, Profit, Quantity, and Average Delivery Time
+**** 1.Sales Analysis Dashboard
+#### 2.Tracks overall performance using key metrics like Sales, Profit, Quantity, and Average Delivery Time
 #### 3.Provides breakdowns by:
 #### 4.Region (Central, East, South, West)
 5.Customer Segments
