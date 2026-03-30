@@ -1,6 +1,6 @@
 # SuperStore-Sales-Dashboard-and-Forecasting
 
->>Project Overview
+# Project Overview
 
 1.This project focuses on analyzing superstore sales data and building an interactive dashboard to uncover key business insights. It also includes a 15-day sales forecast to help understand future trends and support decision-making.
 
